@@ -52,54 +52,54 @@ The player controls a dino and runs from left to right. The dino can jump to avo
    │   ├── background/  
    │   ├── clouds/  
    │   ├── Obstacles/  
-   │   └── sprites/
-   │       └── dino/
-   │       └── Barney/
-   ├── sounds/
-   │   ├── jump.wav
-   │   ├── losing.wav
-   │   └── playing music.mp3
-   └── start_vid/
-       ├── 1.mp4
-       └── gaaa.jpg
-   └── FLINSTONE-PIZZA-2D-GAME.py
-   └── README.md
+   │   └── sprites/  
+   │       └── dino/  
+   │       └── Barney/  
+   ├── sounds/  
+   │   ├── jump.wav  
+   │   ├── losing.wav   
+   │   └── playing music.mp3  
+   └── start_vid/  
+       ├── 1.mp4  
+       └── gaaa.jpg  
+   └── FLINSTONE-PIZZA-2D-GAME.py  
+   └── README.md  
 
 
 ## Controls
 
-Left Arrow Key: Move left
-Right Arrow Key: Move right
-Spacebar/Up Arrow Key: Jump
+Left Arrow Key: Move left  
+Right Arrow Key: Move right  
+Spacebar/Up Arrow Key: Jump  
 
 ## Levels
 
 The game includes the following levels:
 
-Level 1: Basic level
-Level 2: Rocks as obstacles
-Level 3: Shells as obstacles
-Level 4: Pitfalls as obstacles
-Level 5: Begining of the Forest
-Level 6: Log and cat traps
-Level 7: Water pitfalls
-Level 8: Barney trap
+#### Level 1: Basic level  
+#### Level 2: Rocks as obstacles  
+#### Level 3: Shells as obstacles  
+#### Level 4: Pitfalls as obstacles  
+#### Level 5: Begining of the Forest  
+#### Level 6: Log and cat traps  
+#### Level 7: Water pitfalls  
+#### Level 8: Barney trap  
 
 ## Obstacles
 
-Rocks: Static obstacles in level 2.
-Shells: Static obstacles in level 3.
-Pitfalls: Gaps in the ground in level 4.
-Log Trap: A trap in level 6.
-Cat Trap: A trap in level 6.
-Water Pitfalls: Gaps filled with water in level 7.
-Barney: A character in level 8 that ends the game.
+Rocks: Static obstacles in level 2.  
+Shells: Static obstacles in level 3.  
+Pitfalls: Gaps in the ground in level 4.  
+Log Trap: A trap in level 6.  
+Cat Trap: A trap in level 6.  
+Water Pitfalls: Gaps filled with water in level 7.  
+Barney: A character in level 8 that ends the game.  
 
 ## Sound
 
-Jump Sound: Played when the dino jumps.
-Losing Sound: Played when the dino hits an obstacle.
-Background Music: Plays continuously during gameplay.
+Jump Sound: Played when the dino jumps.  
+Losing Sound: Played when the dino hits an obstacle.  
+Background Music: Plays continuously during gameplay.  
 
 ## Dependencies
 
@@ -116,12 +116,13 @@ Bash
 python FLINSTONE-PIZZA-2D-GAME.py
 
 ## Credits
-This game was developed by - [Hasini Liyanawadu] - 
-                             [Dewmini Apsara] -   
-                             [Pavan Pramod] - 
-                             [Vidun Tharumika] - 
-                             
-All the image assets including backgrounds, Obstacles were created by our selves.
 
-Graphic Part - Pavan Pramod and Dewmini Apsara
-Coding Part - Hasini Liyanawadu and Vidun Tharumika
+This game was developed by - [Hasini Liyanawadu] -   
+                             [Dewmini Apsara] -    
+                             [Pavan Pramod] -   
+                             [Vidun Tharumika] -   
+                             
+All the image assets including backgrounds, Obstacles were created by our selves.  
+
+Graphic Part - Pavan Pramod and Dewmini Apsara  
+Coding Part - Hasini Liyanawadu and Vidun Tharumika  
