@@ -44,28 +44,26 @@ The player controls a dino and runs from left to right. The dino can jump to avo
    Ensure all image and sound files are placed in the correct directories as specified in the code.  The code assumes a specific directory structure (e.g., img/, sounds/, 
    start_vid/).  Adjust the file paths in the code if necessary.
 
-A suggested structure is:
+   A suggested structure is:
 
-FLINSTONE-PIZZA-2D-GAME/
+   FLINSTONE-PIZZA-2D-GAME/
 
-├── img/
-
-│   ├── background/
-
-│   ├── clouds/
-│   ├── Obstacles/
-│   └── sprites/
-│       └── dino/
-│       └── Barney/
-├── sounds/
-│   ├── jump.wav
-│   ├── losing.wav
-│   └── playing music.mp3
-└── start_vid/
-    ├── 1.mp4
-    └── gaaa.jpg
-└── FLINSTONE-PIZZA-2D-GAME.py
-└── README.md
+   ├── img/  
+   │   ├── background/  
+   │   ├── clouds/  
+   │   ├── Obstacles/  
+   │   └── sprites/
+   │       └── dino/
+   │       └── Barney/
+   ├── sounds/
+   │   ├── jump.wav
+   │   ├── losing.wav
+   │   └── playing music.mp3
+   └── start_vid/
+       ├── 1.mp4
+       └── gaaa.jpg
+   └── FLINSTONE-PIZZA-2D-GAME.py
+   └── README.md
 
 
 ## Controls
