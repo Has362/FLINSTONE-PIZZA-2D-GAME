@@ -87,19 +87,19 @@ The game includes the following levels:
 
 ## Obstacles
 
-Rocks: Static obstacles in level 2.  
-Shells: Static obstacles in level 3.  
-Pitfalls: Gaps in the ground in level 4.  
-Log Trap: A trap in level 6.  
-Cat Trap: A trap in level 6.  
-Water Pitfalls: Gaps filled with water in level 7.  
-Barney: A character in level 8 that ends the game.  
+##### Rocks: Static obstacles in level 2.  
+##### Shells: Static obstacles in level 3.  
+##### Pitfalls: Gaps in the ground in level 4.  
+##### Log Trap: A trap in level 6.  
+##### Cat Trap: A trap in level 6.  
+##### Water Pitfalls: Gaps filled with water in level 7.  
+##### Barney: A character in level 8 that ends the game.  
 
 ## Sound
 
-Jump Sound: Played when the dino jumps.  
-Losing Sound: Played when the dino hits an obstacle.  
-Background Music: Plays continuously during gameplay.  
+##### Jump Sound: Played when the dino jumps.  
+##### Losing Sound: Played when the dino hits an obstacle.  
+##### Background Music: Plays continuously during gameplay.  
 
 ## Dependencies
 
@@ -117,12 +117,13 @@ python FLINSTONE-PIZZA-2D-GAME.py
 
 ## Credits
 
-This game was developed by - [Hasini Liyanawadu] -   
+This game was developed by  
+                             [Hasini Liyanawadu] -   
                              [Dewmini Apsara] -    
                              [Pavan Pramod] -   
                              [Vidun Tharumika] -   
                              
 All the image assets including backgrounds, Obstacles were created by our selves.  
 
-Graphic Part - Pavan Pramod and Dewmini Apsara  
-Coding Part - Hasini Liyanawadu and Vidun Tharumika  
+##### Graphic Part - Pavan Pramod and Dewmini Apsara  
+##### Coding Part - Hasini Liyanawadu and Vidun Tharumika  
