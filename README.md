@@ -36,20 +36,22 @@ The player controls a dino and runs from left to right. The dino can jump to avo
    git clone [https://github.com/](https://github.com/)[your-github-username]/FLINSTONE-PIZZA-2D-GAME.git  # Replace with your repo URL
 
 2. **Install dependencies:**
-
-Bash
-
-pip install pygame opencv-python numpy
+   ```bash
+   pip install pygame opencv-python numpy
 
 3. **Place Assets:**
 
-Ensure all image and sound files are placed in the correct directories as specified in the code.  The code assumes a specific directory structure (e.g., img/, sounds/, start_vid/).  Adjust the file paths in the code if necessary.
+   Ensure all image and sound files are placed in the correct directories as specified in the code.  The code assumes a specific directory structure (e.g., img/, sounds/, 
+   start_vid/).  Adjust the file paths in the code if necessary.
 
 A suggested structure is:
 
 FLINSTONE-PIZZA-2D-GAME/
+
 ├── img/
+
 │   ├── background/
+
 │   ├── clouds/
 │   ├── Obstacles/
 │   └── sprites/
