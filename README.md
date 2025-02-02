@@ -118,10 +118,10 @@ python FLINSTONE-PIZZA-2D-GAME.py
 ## Credits
 
 This game was developed by  
-                             [Hasini Liyanawadu] -   
-                             [Dewmini Apsara] -    
+                             [Hasini Liyanawadu] - https://github.com/Has362   
+                             [Dewmini Apsara] - https://github.com/Apsara-dew    
                              [Pavan Pramod] -   
-                             [Vidun Tharumika] -   
+                             [Vidun Tharumika] - https://github.com/Tharumika   
                              
 All the image assets including backgrounds, Obstacles were created by our selves.  
 
